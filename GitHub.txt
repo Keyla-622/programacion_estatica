@@ -1,0 +1,20 @@
+GitHub:
+Abrí GitHub.
+si quieren limpiar la terminal: clear.
+ls:
+comando para inicializar (solo una vez) :init.
+git status : es para revisar los cambios que hay.
+para guardar un archivo en especifico: git ADD.
+git commit -m "creando css" = guardar como
+git config --global user.name "nombre cuenta"
+control-c:cortar proceso.
+window- shift- alt- x : copiar
+git config --global user.email "tu email"
+git log : puedo ver los commit.
+rm -r claw-nombre del archivo : para borrar archivo.
+git branch nombre de la rama : para crear otra rama.
+git checkout nombre de la rama:para entrar a otra rama.
+
+
+
+
