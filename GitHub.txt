@@ -4,7 +4,7 @@ si quieren limpiar la terminal: clear.
 ls:
 comando para inicializar (solo una vez) :init.
 git status : es para revisar los cambios que hay.
-para guardar un archivo en especifico: git ADD.
+para guardar un archivo en especifico: git gitADD.
 git commit -m "creando css" = guardar como
 git config --global user.name "nombre cuenta"
 control-c:cortar proceso.
